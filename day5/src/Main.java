@@ -46,7 +46,7 @@ public class Main {
         }
       }
       
-      //get valid sequences
+      //get valid sequences1
       for(String sequence : sequences){
         String[] items = sequence.split(",");
 
